@@ -1,7 +1,7 @@
 {
   "name": "business-card",
   "version": "0.1.0",
-  "homepage": "https://Pravallika24224.github.io/Pravallika's-business-card",
+  "homepage": "https://Pravallika24224.github.io/business-card",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
