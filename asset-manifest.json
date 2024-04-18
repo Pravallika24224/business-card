@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pravallika's-business-card/static/css/main.72294152.css",
+    "main.js": "/Pravallika's-business-card/static/js/main.61071128.js",
+    "static/js/453.d0c65a9d.chunk.js": "/Pravallika's-business-card/static/js/453.d0c65a9d.chunk.js",
+    "static/media/profile.jpg": "/Pravallika's-business-card/static/media/profile.16911c9ef002bb1cd6e8.jpg",
+    "static/media/react_js.png": "/Pravallika's-business-card/static/media/react_js.78e6114482137d748489.png",
+    "static/media/gitHub.png": "/Pravallika's-business-card/static/media/gitHub.273dfe8049ea6f8c57f5.png",
+    "static/media/node_js.png": "/Pravallika's-business-card/static/media/node_js.f5ef0599b5449115b0aa.png",
+    "static/media/javascript.png": "/Pravallika's-business-card/static/media/javascript.b8eabfa0752f9cd93401.png",
+    "static/media/css.png": "/Pravallika's-business-card/static/media/css.9d56f9438ebb9ff1940b.png",
+    "static/media/linkedIn.png": "/Pravallika's-business-card/static/media/linkedIn.a219c14e88c928be8b65.png",
+    "static/media/html.png": "/Pravallika's-business-card/static/media/html.c77fed674c34630bf6ef.png",
+    "index.html": "/Pravallika's-business-card/index.html",
+    "main.72294152.css.map": "/Pravallika's-business-card/static/css/main.72294152.css.map",
+    "main.61071128.js.map": "/Pravallika's-business-card/static/js/main.61071128.js.map",
+    "453.d0c65a9d.chunk.js.map": "/Pravallika's-business-card/static/js/453.d0c65a9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72294152.css",
+    "static/js/main.61071128.js"
+  ]
+}
